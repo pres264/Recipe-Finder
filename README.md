@@ -1,3 +1,4 @@
+Live Link: https://recipe-finder-delta-seven.vercel.app/
 🍳 Recipe Finder
 Discover delicious recipes in seconds! Recipe Finder is a sleek React app that helps you find detailed recipes for any dish you're craving. Just type what you want to cook, and get instant results with ingredients and instructions!
 
